@@ -14,7 +14,7 @@ My name is Pedro Gonçalves and I am a Civil Engineer from UFSJ. I've always bee
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
 ### 📫 How to reach me:
- 
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
 <!--
 **Pedro4010/Pedro4010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
