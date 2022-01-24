@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Pedro Gonçalves and I am a Civil Engineer from UFSJ. I've always been a technology enthusiast and I'm currently majoring in Data Scientist at Awari.
+
+### Some tools I've been working on
+![image]({https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white})
+<img src="{https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white}" />
+ 
 <!--
 **Pedro4010/Pedro4010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
